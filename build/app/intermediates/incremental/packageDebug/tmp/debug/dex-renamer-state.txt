@@ -1,0 +1,4 @@
+#Wed Apr 28 15:35:48 CDT 2021
+base.0=/Users/gopiramella/AndroidStudioProjects/profilePage/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
